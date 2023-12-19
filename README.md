@@ -1,4 +1,4 @@
-#StockMarketApp
+**StockMarketApp**
 
 Stock Market is an application build following solid principles using clean architectural + MVVM. 
 
