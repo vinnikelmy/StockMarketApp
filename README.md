@@ -15,3 +15,8 @@ With this app you can get information about company and stock prices.
 - **OpenCSV:** CSV parsing.
 - **Room:** *Room* is used for local data storage, providing a reliable and efficient way to manage app-related data.
 - **Offline Capability:** This is a first offline app, ensuring users best possible experience even without an active internet connection.
+
+## Screenshots
+![img](https://github.com/vinnikelmy/StockMarketApp/assets/154093295/70439530-7183-4e1d-8a9d-e78046918f2d)
+
+![img2](https://github.com/vinnikelmy/StockMarketApp/assets/154093295/3e38f3df-b50c-4aae-82e0-206c645bc2e4)
